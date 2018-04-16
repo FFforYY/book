@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/book-commons/book-commons.iml" filepath="$PROJECT_DIR$/book-commons/book-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-manager/book-manager.iml" filepath="$PROJECT_DIR$/book-manager/book-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-manager/book-manager-dao/book-manager-dao.iml" filepath="$PROJECT_DIR$/book-manager/book-manager-dao/book-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-manager/book-manager-interface/book-manager-interface.iml" filepath="$PROJECT_DIR$/book-manager/book-manager-interface/book-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-manager/book-manager-pojo/book-manager-pojo.iml" filepath="$PROJECT_DIR$/book-manager/book-manager-pojo/book-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-manager/book-manager-service/book-manager-service.iml" filepath="$PROJECT_DIR$/book-manager/book-manager-service/book-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-manager/book-manager-web/book-manager-web.iml" filepath="$PROJECT_DIR$/book-manager/book-manager-web/book-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-parent/book-parent.iml" filepath="$PROJECT_DIR$/book-parent/book-parent.iml" />
+    </modules>
+  </component>
+</project>
